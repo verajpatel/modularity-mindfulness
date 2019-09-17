@@ -15,6 +15,7 @@ i {
   color: #0084a6;
   border-color: #005e76;
   background-color: #8bc9d9;
+  border-width: medium;
 }
 
 a {
@@ -23,16 +24,16 @@ a {
 }
 
 nav {
-  color: #8bc9d9;
+  color: #0084a6;
 }
 
 nav a {
-  border-bottom: .1rem solid #8bc9d9;
+  border-bottom: .1rem solid #0084a6;
 }
 
 nav a:hover {
-  color: #0084a6;
-  border-bottom-color: #0084a6;
+  color: #005e76;
+  border-bottom-color: #005e76;
 }
 
 footer {
@@ -40,7 +41,7 @@ footer {
 }
 
 hr {
-  color: #e2e2e2;
+  border-color: #e2e2e2;
   border-width: thin;
 }
 
