@@ -17,16 +17,31 @@ i {
   background-color: #8bc9d9;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 nav {
   color: #8bc9d9;
 }
 
-nav:hover {
-  color: #005e76;
+nav a {
+  border-bottom: .1rem solid #8bc9d9;
+}
+
+nav a:hover {
+  color: #0084a6;
+  border-bottom-color: #0084a6;
 }
 
 footer {
   color: #e2e2e2;
+}
+
+hr {
+  color: #e2e2e2;
+  border-width: thin;
 }
 
 #000
