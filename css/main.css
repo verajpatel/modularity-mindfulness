@@ -1,9 +1,11 @@
 html {
   font-family: "Noto Sans", sans-serif;
+  color: #000;
 }
 
 i {
   font-family: "Noto Sans Japanese", sans-serif;
+  color: #000;
 }
 
 .btn {
@@ -28,7 +30,7 @@ nav {
 }
 
 nav a {
-  border-bottom: .1rem solid #0084a6;
+  border-bottom: .1rem solid #8bc9d9;
 }
 
 nav a:hover {
